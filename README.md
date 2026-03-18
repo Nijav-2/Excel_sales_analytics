@@ -67,4 +67,6 @@ This project demonstrates the ability to:
 - Analyze and interpret data effectively  
 - Create structured reports and dashboards  
 - Extract meaningful business insights  
-- Present data in a clear and professional format  
+- Present data in a clear and professional format
+
+   Get interactive reports : https://1drv.ms/x/c/de969916a9f0c7a7/IQBg8jj0Pm20Q4_QggM_FVV3AQMDx8pqYBuFT_1VE-4GjkQ?e=OVml8u
